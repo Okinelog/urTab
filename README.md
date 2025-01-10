@@ -6,7 +6,8 @@
 
 **urTab**, lets you quickly create tab menu with pure js.
 
-> ### Setup
+🚀 Getting Started
+
 > 1. Download the "urtab.js" file.
 > 2. Create the "index.html" file.
 > 3. Pass the following template
